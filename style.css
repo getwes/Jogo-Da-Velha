@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Itim', cursive;
+}
+
+.background {
+    background-color: #12181b;
+    height: 100vh;
+    padding-top: 1px;
+}
