@@ -45,3 +45,21 @@
     font-size: 50px;
     cursor: pointer;
 }
+
+.playerX{
+    color:aqua;
+}
+.player0{
+    color: aquamarine;
+}
+
+.controls{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+    
+}
+
+
