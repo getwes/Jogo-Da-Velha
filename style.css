@@ -14,6 +14,7 @@
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
+    box-shadow: 10px 5px 5px #982323;
 }
 .display{
     color: white;
@@ -33,6 +34,7 @@
     grid-template-columns: 33% 33% 33%;
     grid-template-rows: 33% 33% 33% ;
     max-width: 300px;
+    box-shadow: 10px 5px 5px #982323;
 }
 
 .tile{
@@ -61,5 +63,15 @@
     margin-top: 1em;
     
 }
-
+#reset{
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    font-size:20px ;
+    margin-left: 1em;
+    cursor: pointer;
+    box-shadow: 10px 5px 5px #b3adad;
+}
 
