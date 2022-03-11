@@ -64,7 +64,7 @@
     
 }
 #reset{
-    background-color: red;
+    background-color: #982323;
     color: white;
     padding: 8px;
     border-radius: 8px;
@@ -72,6 +72,6 @@
     font-size:20px ;
     margin-left: 1em;
     cursor: pointer;
-    box-shadow: 10px 5px 5px #b3adad;
+    box-shadow: 10px 5px 5px white;
 }
 
